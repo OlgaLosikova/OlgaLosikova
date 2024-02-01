@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋
+###### I'm Olga, i'm frontend developer from Russia, Yaroslavl
+![cat-developer](image/peach-goma.gif)
 
-<!--
-**OlgaLosikova/OlgaLosikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭I’m currently working on JavaScript, CSS, HTML
+- 🌱 I’m currently learning React and JS improvements
+- 💬 Ask me about tech, workouts in the gym and walks in the open air
+#### Connect with me:
+- [Telegram](https://t.me/olgalosikova)
+- [E-mail](techtigra@gmail.com)
 
-Here are some ideas to get you started:
+#### Technologies:
+![html](svg/css3.svg)![html](svg/html5.svg)![html](svg/javascript.svg)![html](svg/git.svg)![html](svg/github.svg)![html](svg/react.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
