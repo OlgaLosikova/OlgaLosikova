@@ -20,6 +20,7 @@
     />
   </a>  
 </p>
+
 #### Connect with me:
 - [Telegram](https://t.me/olgalosikova)
 - [E-mail](techtigra@gmail.com)
