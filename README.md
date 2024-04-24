@@ -1,4 +1,5 @@
 ### Hi 👋
+
 ###### I'm Olga, i'm frontend developer from Russia, Yaroslavl
 
 <p align="justify">
@@ -23,10 +24,18 @@
 </p>
 
 #### Connect with me:
+
 - [Telegram](https://t.me/snailINtime)
 - [E-mail](techtigra@gmail.com)
 
 #### Technologies:
-![SVG Image](svg/javascript.svg)![SVG Image](svg/css3.svg)![SVG Image](svg/html5.svg)![SVG Image](svg/github.svg)![SVG Image](svg/git.svg)![SVG Image](svg/react.svg)![SVG Image](svg/bootstrap.svg)![SVG Image](svg/mobx.svg)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title="html" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" title="js" width="40" height="40"/>&nbsp;
 
