@@ -1,5 +1,6 @@
 ### Hi 👋
 ###### I'm Olga, i'm frontend developer from Russia, Yaroslavl
+
 <p align="justify">
    <img
       width="200"
@@ -26,10 +27,6 @@
 - [E-mail](techtigra@gmail.com)
 
 #### Technologies:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+![SVG Image](svg/javascript.svg)![SVG Image](svg/css3.svg)![SVG Image](svg/html5.svg)![SVG Image](svg/github.svg)![SVG Image](svg/git.svg)![SVG Image](svg/react.svg)![SVG Image](svg/bootstrap.svg)![SVG Image](svg/mobx.svg)
 
 
