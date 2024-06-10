@@ -11,7 +11,7 @@
 </p>
 
 - 🔭I’m currently working on JavaScript, CSS, HTML, React
-- 🌱 I’m currently learning Mobx, Redux and JS improvements
+- 🌱 I’m currently learning Vue JS, Redux toolkit and JS improvements
 - 💬 Ask me about tech, workouts in the gym and walks in the open air
   <p align="justify">
      <a href="https://github.com/OlgaLosikova/OlgaLosikova/">
