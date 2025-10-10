@@ -25,7 +25,6 @@
 
 #### Connect with me:
 
-- [Telegram](https://t.me/snailINtime)
 - [E-mail](techtigra@gmail.com)
 
 #### Technologies:
