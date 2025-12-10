@@ -10,8 +10,8 @@
     />
 </p>
 
-- 🔭I’m currently working on JavaScript, CSS, HTML, React, Vue JS
-- 🌱 I’m currently learning Redux toolkit and TypeScript
+- 🔭I’m currently working on TypeScript, Next.js, React, VueJS, Redux
+- 🌱 I’m currently learning WebSocket
 - 💬 Ask me about tech, workouts in the gym and walks in the open air
   <p align="justify">
      <a href="https://github.com/OlgaLosikova/OlgaLosikova/">
@@ -26,6 +26,7 @@
 #### Connect with me:
 
 - [E-mail](techtigra@gmail.com)
+- [Telegram](@snailINtime)
 
 #### Technologies:
 
